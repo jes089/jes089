@@ -1,12 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Jennifer Sun!</h1>
 <div align="center">
-<a href="https://www.linkedin.com/in/sunjennifer1/"><img align="center" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0072b1"></a>
-</div>
 
-<h2 align="left">About me:</h2>
+</div>
+<img src="https://www.caida.org/images/stafflist/jennifer_sun_huebbfad1edfa8e198fe68a27ac6a615ca_1615745_250x0_resize_q90_lanczos.jpg"  width="80" height="80" align="left">
 <p align="left">
-  I am a front-end developer and UX Designer for <a href="https://www.caida.org/">CAIDA</a>, a Internet Research Group located in the Supercomputer Center at UCSD. In my free time, I like to hang out with my cat, listen to new music, and explore San Diego. 
+I am a front-end developer and UX Designer for <a href="https://www.caida.org/">CAIDA</a>, a Internet Research Group located in the Supercomputer Center at UCSD. In my free time, I like to hang out with my cat, listen to new music, and explore San Diego. 
 </p>
+<p><a href="https://www.linkedin.com/in/sunjennifer1/"><img align="center" src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0072b1"></a></p>
+<br>
 
 <h2 align="left">Languages and Tools:</h3>
 <div>
@@ -30,7 +31,19 @@
 
 **Front-end Developer** & **UX Designer** \
 [**CAIDA**](https://www.caida.org/) • 2020 - present \
-Languages & Technologies: `Javascript`, `React`, `CSS`, `HTML5`, `Hugo`, `GraphQL`, `PHP`,`Figma` 
+Languages & Technologies: `Javascript`, `React`, `CSS`, `HTML5`, `Hugo`, `GraphQL`, `PHP`,`Figma`, `Material UI` 
 
+<img style="margin-right:10px" align="left" src="https://media.licdn.com/dms/image/C560BAQH0rMqWuDcNzA/company-logo_100_100/0/1656670432353?e=1687996800&v=beta&t=u6joKAIB0yIYAZIZPqrTrt9xxyXRFSByrdkjuv3l0AI" width="80" height="80">
+
+**Research Intern**  \
+[**Carnegie Mellon University**](https://www.cmu.edu/) • 2018 \
+Languages & Technologies: `R`, `ggplot2` 
+
+<br>
+<h2 align="left">Projects:</h2>
+
+<a href="https://jennifersun38.wixsite.com/jsun"><img style="margin-right:10px" align="left" src="https://static.wixstatic.com/media/c73ff0_88788a791f4240a9beb1ba8a915098dd~mv2.png/v1/crop/x_348,y_35,w_660,h_659/fill/w_498,h_498,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Screen%20Shot%202019-11-18%20at%208_03_18%20PM.png" width="80" height="80"></a>
+[**Lyft Redesign Case Study**](https://jennifersun38.wixsite.com/jsun)\
+Case study exploring how to add functionality to Lyft. We researched, designed, and prototyped how we would allow pet owners to bring their dogs on a rideshare. 
 
 
