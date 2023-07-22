@@ -33,7 +33,7 @@ I am a front-end developer and UX Designer for <a href="https://www.caida.org/">
 [**CAIDA**](https://www.caida.org/) • 2020 - present \
 Languages & Technologies: `Javascript`, `React`, `CSS`, `HTML5`, `Hugo`, `GraphQL`, `PHP`,`Figma`, `Material UI` 
 
-<img style="margin-right:10px" align="left" src="https://media.licdn.com/dms/image/C560BAQH0rMqWuDcNzA/company-logo_100_100/0/1656670432353?e=1687996800&v=beta&t=u6joKAIB0yIYAZIZPqrTrt9xxyXRFSByrdkjuv3l0AI" width="80" height="80">
+<img style="margin-right:10px" align="left" src="https://www.cmu.edu/brand/brand-guidelines/images/wordmarksquare-red-600x600.png" width="80" height="80">
 
 **Research Intern**  \
 [**Carnegie Mellon University**](https://www.cmu.edu/) • 2018 \
